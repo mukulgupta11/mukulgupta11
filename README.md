@@ -9,9 +9,9 @@ Full-stack developer building ai-powered products, real-time systems, and produc
 
 ## featured projects
 
-- 🧠 **Devix** — ai-powered code editor with gemini autocomplete, webcontainers, and in-browser execution · [github](https://github.com/mukulgupta11/Devix) · [live](https://devix-tr7v.onrender.com/)
-- 💬 **Aivonix** — ai saas workspace built with next.js 15, hono, gemini llms, stripe billing & streaming responses · [github](https://github.com/mukulgupta11/Aivonix) · [live](https://aivonix.onrender.com/)
-- 🔍 **Aivana** — ai-powered github code reviewer using gemini 2.5 flash, inngest workflows & trpc v11 · [github](https://github.com/mukulgupta11/Aivana) · [live](https://aivana-5vao.onrender.com/)
+- 🧠 **Devix** — ai-powered code editor with gemini autocomplete, webcontainers, and in-browser execution · [github](https://github.com/mukulgupta11/Devix) · [live](https://devix-ai.netlify.app/)
+- 💬 **Aivonix** — ai saas workspace built with next.js 15, hono, gemini llms, stripe billing & streaming responses · [github](https://github.com/mukulgupta11/Aivonix) · [live](https://aivonix-ai.netlify.app/)
+- 🔍 **Aivana** — ai-powered github code reviewer using gemini 2.5 flash, inngest workflows & trpc v11 · [github](https://github.com/mukulgupta11/Aivana) · [live](https://aivana1.netlify.app/)
 - 🎮 **Teamcord** — real-time gaming chat app (discord-inspired) with websockets · [github](https://github.com/mukulgupta11/teamcord) · [live](https://teamcord-pm8k.onrender.com/)
 - 📊 **Project management** — full-stack project management system (frontend + backend) · [frontend](https://github.com/mukulgupta11/project-management-frontend) · [backend](https://github.com/mukulgupta11/project-management) · [live](https://project-management-frontend-phi.vercel.app/)
 - 🎓 **Full-stack lms** — learning management system with complete course workflows · [github](https://github.com/mukulgupta11/Full-stack-LMS-platform) · [live](https://full-stack-lms-platform.vercel.app/)
