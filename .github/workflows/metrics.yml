@@ -6,18 +6,16 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    # THIS SECTION IS REQUIRED TO ALLOW SAVING THE IMAGES
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Download Stats Cards
         run: |
-          # Download the Main Stats
           curl "https://github-readme-stats.vercel.app/api?username=mukulgupta11&theme=dark&hide_border=false&include_all_commits=true&count_private=true" -o stats.svg
-          
-          # Download the Streak Stats
           curl "https://github-readme-streak-stats.herokuapp.com/?user=mukulgupta11&theme=dark&hide_border=false" -o streak.svg
-          
-          # Download the Top Languages
           curl "https://github-readme-stats.vercel.app/api/top-langs/?username=mukulgupta11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" -o langs.svg
 
       - name: Commit and Push
