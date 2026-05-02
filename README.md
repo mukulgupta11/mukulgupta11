@@ -47,9 +47,9 @@ Full-stack developer building ai-powered products, real-time systems, and produc
 
 | project | link |
 |---|---|
-| devix (ai code editor) | [devix-tr7v.onrender.com](https://devix-tr7v.onrender.com/) |
-| aivonix (ai saas) | [aivonix.onrender.com](https://aivonix.onrender.com/) |
-| aivana (code reviewer) | [aivana-5vao.onrender.com](https://aivana-5vao.onrender.com/) |
+| devix (ai code editor) | [Devix Live Link](https://devix-ai.netlify.app/) |
+| aivonix (ai saas) | [Aivonix Live Link](https://aivonix-ai.netlify.app/) |
+| aivana (code reviewer) | [Aivana Live Link](https://aivana1.netlify.app/) |
 
 ## Connect with me
 
