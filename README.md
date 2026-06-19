@@ -32,7 +32,7 @@ Full-stack developer building ai-powered products, real-time systems, and produc
 
 ## Experience
 
-**ekkaa electronics pvt. ltd.** — _full stack software engineer intern_ (may 2025 – jul 2025)  
+**ekkaa electronics pvt. ltd.** — _full stack software engineer intern_ (may 2025 – nov 2025)  
 → built role-based task management with mongodb aggregation, reducing data retrieval by 40%  
 → engineered jwt auth with bcryptjs + rbac across 3 microservices  
 → shipped file attachment & excel report generation system for 50+ task metrics
