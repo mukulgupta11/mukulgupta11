@@ -1,8 +1,7 @@
 # Hi, I'm Mukul Gupta
 
 Full-stack developer building ai-powered products, real-time systems, and production-grade web applications.
-
-- Full stack software engineer intern — ekkaa electronics pvt. ltd.  
+ 
 - MERN + Generative AI stack specialist. ships fast. builds for scale.
 
 ---
@@ -12,7 +11,7 @@ Full-stack developer building ai-powered products, real-time systems, and produc
 - 🧠 **Devix** — ai-powered code editor with gemini autocomplete, webcontainers, and in-browser execution · [github](https://github.com/mukulgupta11/Devix) · [live](https://devix-ai.netlify.app/)
 - 💬 **Aivonix** — ai saas workspace built with next.js 15, hono, gemini llms, stripe billing & streaming responses · [github](https://github.com/mukulgupta11/Aivonix) · [live](https://aivonix-ai.netlify.app/)
 - 🔍 **Aivana** — ai-powered github code reviewer using gemini 2.5 flash, inngest workflows & trpc v11 · [github](https://github.com/mukulgupta11/Aivana) · [live](https://aivana1.netlify.app/)
-- 🎮 **Teamcord** — real-time gaming chat app (discord-inspired) with websockets · [github](https://github.com/mukulgupta11/teamcord) · [live](https://teamcord-pm8k.onrender.com/)
+- 🎮 **Teamcord** — real-time gaming chat app (discord-inspired) with websockets · [github](https://github.com/mukulgupta11/teamcord) · [live](https://team-cord.netlify.app/)
 - 📊 **Project management** — full-stack project management system (frontend + backend) · [frontend](https://github.com/mukulgupta11/project-management-frontend) · [backend](https://github.com/mukulgupta11/project-management) · [live](https://project-management-frontend-phi.vercel.app/)
 - 🎓 **Full-stack lms** — learning management system with complete course workflows · [github](https://github.com/mukulgupta11/Full-stack-LMS-platform) · [live](https://full-stack-lms-platform.vercel.app/)
 - 🗣️ **Voicemath** — voice-controlled math operations tool · [github](https://github.com/mukulgupta11/voicemath) · [live](https://voicemath-delta.vercel.app/)
@@ -39,7 +38,7 @@ Full-stack developer building ai-powered products, real-time systems, and produc
 
 ## Certifications
 
-- 🎓 [**full stack generative ai & agentic ai with python**](https://drive.google.com/file/d/1HGODB_zRa43jid3QHN5bBgQBOt__QTcX/view?usp=sharing) — udemy (hitesh choudhary, piyush garg) · _jan 2026_
+- 🎓 [**full stack generative ai & agentic ai with python**](https://www.udemy.com/certificate/UC-301d3fdc-b885-4f0f-9fd8-8a68d6e35a17/) — udemy (hitesh choudhary, piyush garg) · _jan 2026_
 - 🤖 [**ai-powered microservices with vibe coding & software 3.0**](https://drive.google.com/file/d/1qG9mqShSYGemVwfwDXXBJdTBIyfIcimJ/view?usp=sharing) — udemy (vivian aranha) · _apr 2026_
 - 📘 [**understanding typescript: beginner to advanced**](https://drive.google.com/file/d/13JJ-6y5fOIt-JLnyqZdkivC7IWA28uOd/view?usp=sharing) — udemy (knowledge nest) · _apr 2026_
 
